@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quochoang228
-- 👀 I’m interested in Android
+- 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning Dart & Flutter
 - 📫 quochoang228@outlook.com
 
