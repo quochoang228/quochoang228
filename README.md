@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Dart & Flutter
 - 📫 quochoang228@outlook.com
 
-/ Cover (pixel GIF) Japanese illustrator ![1041uuu](https://twitter.com/1041uuu)
+| Cover (pixel GIF) Japanese illustrator [1041uuu](https://twitter.com/1041uuu)
 
 <!---
 quochoang228/quochoang228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
